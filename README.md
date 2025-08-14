@@ -19,7 +19,7 @@
 ---
 
 ### 📂 Featured Projects:
-- 🔗 [IPL Victory Predictor](https://github.com/manikumar2972/IPL-Predictor)  
+- 🔗 [IPL Victory Predictor - Live App](https://mani-ipl-prediction.streamlit.app/) | [GitHub Repo](https://github.com/manikumar2972/IPL-Predictor)  
 - 🔗 [Walmart Sales Analysis (Power BI)](https://github.com/manikumar2972/Walmart-Sales)  
 
 ---
@@ -31,8 +31,6 @@
 </p>
 
 ---
-
-
 
 ### 📫 Connect with Me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manikumar-cheema/)  
